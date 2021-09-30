@@ -1,0 +1,33 @@
+body{
+  margin-top: 8rem;
+  text-align: center;
+  background-color:rgb(42, 39, 61);
+  color:aqua;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+h1{
+   margin-bottom: 4rem;
+}
+.birthInput{
+   padding-left: 2rem;
+   padding-right: 2rem;
+   margin-top: 2rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   border-radius: 0.5rem;
+}
+.checkBtn{
+  margin-top: 2rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+button:hover{
+  letter-spacing: 1px;
+  background-color: aqua;
+}
+.output{
+  margin-top: 2rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
